@@ -13,6 +13,5 @@ Plan de Securizacion para Master de Ciberseguridad en IEBS Biztech School
 <img width="960" height="540" alt="10" src="https://github.com/user-attachments/assets/b32527c7-6597-4868-a984-732376dd2856" />
 <img width="960" height="540" alt="11" src="https://github.com/user-attachments/assets/f8923786-ea84-44a7-94fd-dc9a86475c42" />
 <img width="960" height="540" alt="12" src="https://github.com/user-attachments/assets/49b16f43-ab1a-4864-8ce2-15b347158b3d" />
-<img width="960" height="540" alt="13" src="https://github.com/user-attachments/assets/0aaafe23-9ea9-4567-b91f-e5f3d97294ec" />
 
 ## Especial abrazo a mis compañeros del Grupo 1 en el Master. Siempre agradecido con ustedes <3
